@@ -1,4 +1,4 @@
-# supply_chain_planner
+# Schedule Processor
 
 Python script to process CSV files.
 
